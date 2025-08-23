@@ -1,4 +1,4 @@
-# AI crypto trends
+# AI crypto trend model
 The AI model compares current positions with a similar historical market position in order to give more insight. 
 
 ## Summary
